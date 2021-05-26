@@ -1,0 +1,16 @@
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.exe
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.deps.json
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.runtimeconfig.json
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.runtimeconfig.dev.json
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.dll
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\ref\XmlWriter_And_XmlReader.dll
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\bin\Debug\net5.0\XmlWriter_And_XmlReader.pdb
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.csprojAssemblyReference.cache
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.AssemblyInfoInputs.cache
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.AssemblyInfo.cs
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.csproj.CoreCompileInputs.cache
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.dll
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\ref\XmlWriter_And_XmlReader.dll
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.pdb
+C:\Users\Omero4\source\repos\XmlWriter_And_XmlReader\XmlWriter_And_XmlReader\obj\Debug\net5.0\XmlWriter_And_XmlReader.genruntimeconfig.cache
